@@ -1,4 +1,4 @@
-# expenses_app
+# lib
 
 A new Flutter project.
 
